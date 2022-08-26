@@ -1,0 +1,4 @@
+Khi nào sử dụng useEffect khi nào sử dụng useMemo
+
+khi cần cập nhật cùng lúc 2 useState trở lên và không return về một kiểu dữ liệu
+khi cần cập nhận 1 useState và return về một kiểu dữ liệu 
